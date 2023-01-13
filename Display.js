@@ -56,21 +56,6 @@ class Display {
   }
 
 
-  // // Agregar una condición para verificar si el valor actual es igual al valor anterior
-  // if (tipo !== "igual" && valorActual !== valorAnterior) {
-  //   // Realizar el cálculo solo si el valor actual es diferente del valor anterior
-  //   this.calcular();
-  // }
-
-  // // Modificar el código para que el método computar se ejecute siempre que se haga clic en el botón de igual, independientemente de si el valor actual es igual al valor anterior o no
-  // if (tipo === "igual") {
-  //   this.valorActual = this.calculador[this.tipoOperacion](valorAnterior, valorActual);
-  // } else {
-  //   this.tipoOperacion = tipo;
-  //   this.valorAnterior = this.valorActual;
-  //   this.valorActual = '';
-  // }
-  // this.imprimirValores();
 
 
 
